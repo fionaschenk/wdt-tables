@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Table 10</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <nav class="crumb"><a href="index.html">&larr; Index of tables</a></nav>
+
+  <header class="page-head">
+    <h1>Table 10</h1>
+<p class="caption">LA–ICP–MS of mineral grains in rare earth elements (REE).</p><p class="caption-detail">The average value is derived from two to three measurement points [ppm] from two mineral grains of the sample.</p>  </header>
+
+  <div class="downloads">
+    <span class="dl-label">Download:</span>
+    <a class="dl-btn" href="downloads/Table10.csv" download>CSV</a>
+    <a class="dl-btn" href="downloads/Table10.json" download>JSON</a>
+  </div>
+
+  <div class="table-wrap">
+    <table id="data" class="display" style="width:100%">
+      <thead>
+        <tr>
+<th>Element</th><th>I–1 (27.75 m)</th><th>I–4 (50.20 m)</th><th>II–18 (69.38 m)</th><th>IIII–2 (27.85 m)</th><th>IIIIII–L1 (20.20 m)</th>        </tr>
+      </thead>
+      <tbody>
+        <tr>
+<td><sup>89</sup>Y</td><td>0.062</td><td>0.119</td><td>0.164</td><td>6.312</td><td>0.635</td>        </tr>
+        <tr>
+<td><sup>139</sup>La</td><td>0.004</td><td>0.134</td><td>0.014</td><td>4.023</td><td>1.952</td>        </tr>
+        <tr>
+<td><sup>140</sup>Ce</td><td>0.003</td><td>0.058</td><td>0.025</td><td>14.092</td><td>3.561</td>        </tr>
+        <tr>
+<td><sup>141</sup>Pr</td><td>0.002</td><td>0.008</td><td>0.004</td><td>2.403</td><td>0.305</td>        </tr>
+        <tr>
+<td><sup>146</sup>Nd</td><td>0.012</td><td>0.037</td><td>0.027</td><td>12.785</td><td>0.966</td>        </tr>
+        <tr>
+<td><sup>147</sup>Sm</td><td>0.016</td><td>0.036</td><td>0.023</td><td>3.061</td><td>0.158</td>        </tr>
+        <tr>
+<td><sup>151</sup>Eu</td><td>0.007</td><td>0.080</td><td>0.001</td><td>0.930</td><td>0.040</td>        </tr>
+        <tr>
+<td><sup>157</sup>Gd</td><td>0.048</td><td>0.134</td><td>0.088</td><td>2.608</td><td>0.143</td>        </tr>
+        <tr>
+<td><sup>159</sup>Tb</td><td>0.002</td><td>0.005</td><td>0.004</td><td>0.309</td><td>0.014</td>        </tr>
+        <tr>
+<td><sup>161</sup>Dy</td><td>0.014</td><td>0.038</td><td>0.029</td><td>1.613</td><td>0.114</td>        </tr>
+        <tr>
+<td><sup>165</sup>Ho</td><td>0.002</td><td>0.002</td><td>0.006</td><td>0.257</td><td>0.020</td>        </tr>
+        <tr>
+<td><sup>167</sup>Er</td><td>0.008</td><td>0.011</td><td>0.031</td><td>0.629</td><td>0.073</td>        </tr>
+        <tr>
+<td><sup>179</sup>Tm</td><td>0.002</td><td>0.002</td><td>0.004</td><td>0.068</td><td>0.011</td>        </tr>
+        <tr>
+<td><sup>173</sup>Yb</td><td>0.021</td><td>0.011</td><td>0.054</td><td>0.413</td><td>0.086</td>        </tr>
+        <tr>
+<td><sup>175</sup>Lu</td><td>0.004</td><td>0.003</td><td>0.009</td><td>0.055</td><td>0.014</td>        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer class="page-foot">
+<p>Data creator: Fiona Schenk</p><p>Licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>, Fiona Schenk</p>  </footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+<script>
+$(function () {
+  $('#data').DataTable({
+    pageLength: -1,      // show all rows by default
+    lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, 'All']],
+    order: [],            // keep the original row order until the user sorts
+    autoWidth: false,     // let CSS/table layout size columns (headers may wrap)
+    language: {
+      search: 'Filter:',
+      lengthMenu: 'Show _MENU_ rows',
+      info: 'Showing _START_ to _END_ of _TOTAL_ rows',
+      infoFiltered: '(filtered from _MAX_ rows)',
+      infoEmpty: 'No rows',
+      zeroRecords: 'No matching rows found'
+    }
+  });
+});
+</script>
+</body>
+</html>

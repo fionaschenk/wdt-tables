@@ -1,0 +1,77 @@
+[
+  {
+    "Element": "89Y",
+    "lines along (001-070)": "0.132",
+    "lines across (001-030)": "0.128"
+  },
+  {
+    "Element": "139La",
+    "lines along (001-070)": "0.084",
+    "lines across (001-030)": "0.089"
+  },
+  {
+    "Element": "140Ce",
+    "lines along (001-070)": "0.030",
+    "lines across (001-030)": "0.034"
+  },
+  {
+    "Element": "141Pr",
+    "lines along (001-070)": "0.006",
+    "lines across (001-030)": "0.007"
+  },
+  {
+    "Element": "146Nd",
+    "lines along (001-070)": "0.024",
+    "lines across (001-030)": "0.030"
+  },
+  {
+    "Element": "147Sm",
+    "lines along (001-070)": "0.027",
+    "lines across (001-030)": "0.029"
+  },
+  {
+    "Element": "151Eu",
+    "lines along (001-070)": "0.037",
+    "lines across (001-030)": "0.037"
+  },
+  {
+    "Element": "157Gd",
+    "lines along (001-070)": "0.082",
+    "lines across (001-030)": "0.089"
+  },
+  {
+    "Element": "159Tb",
+    "lines along (001-070)": "0.003",
+    "lines across (001-030)": "0.003"
+  },
+  {
+    "Element": "161Dy",
+    "lines along (001-070)": "0.024",
+    "lines across (001-030)": "0.024"
+  },
+  {
+    "Element": "165Ho",
+    "lines along (001-070)": "0.002",
+    "lines across (001-030)": "0.002"
+  },
+  {
+    "Element": "167Er",
+    "lines along (001-070)": "0.010",
+    "lines across (001-030)": "0.009"
+  },
+  {
+    "Element": "179Tm",
+    "lines along (001-070)": "0.002",
+    "lines across (001-030)": "0.002"
+  },
+  {
+    "Element": "173Yb",
+    "lines along (001-070)": "0.007",
+    "lines across (001-030)": "0.008"
+  },
+  {
+    "Element": "175Lu",
+    "lines along (001-070)": "0.002",
+    "lines across (001-030)": "0.002"
+  }
+]

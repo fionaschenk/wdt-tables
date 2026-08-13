@@ -1,0 +1,13 @@
+# =====================================================================
+# WD1 supplementary tables - pinned dependencies.
+# Install from the repository root:  pip install -r requirements.txt
+# Versions match the rest of the wdttest-* family, so a shared virtual
+# environment can build every repository.
+# =====================================================================
+
+# --- table pipeline (py/build_tables.py) ---
+jinja2==3.1.4          # HTML templating for the table pages
+MarkupSafe==2.1.5      # safe markup (chemical / isotope notation, licence links)
+
+# --- README metadata blocks (py/make_metadata.py) ---
+PyYAML==6.0.2          # metadata.yaml, data.yaml, captions.yaml

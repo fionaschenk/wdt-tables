@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "WD1 supplementary tables (Walsdorfer Maar, West Eifel Volcanic Field)"
+abstract: >-
+  The eighteen supplementary data tables of drill core **WD1** (Walsdorfer maar, West Eifel Volcanic Field), published as an interactive site on GitHub Pages.
+type: dataset
+authors:
+  - family-names: Schenk
+    given-names: Fiona
+    orcid: "https://orcid.org/0009-0008-2877-3204"
+license: MIT
+version: "1.0.0"
+date-released: "2026-08-12"
+repository-code: "https://github.com/fionaschenk/wdt-tables"
+url: "http://fionaschenk.github.io/wdt-tables/"
+keywords:
+  - WD1
+  - Walsdorfer Maar
+  - West Eifel Volcanic Field
+  - Quaternary
+  - tephrostratigraphy
+  - palaeoclimate
+  - supplementary data
+  - FAIR data

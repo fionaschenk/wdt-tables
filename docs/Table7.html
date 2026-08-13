@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Table 7</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <nav class="crumb"><a href="index.html">&larr; Index of tables</a></nav>
+
+  <header class="page-head">
+    <h1>Table 7</h1>
+<p class="caption">Classification of the WD1 tephra samples into primary and secondary tephra.</p>  </header>
+
+  <div class="downloads">
+    <span class="dl-label">Download:</span>
+    <a class="dl-btn" href="downloads/Table7.csv" download>CSV</a>
+    <a class="dl-btn" href="downloads/Table7.json" download>JSON</a>
+  </div>
+
+  <div class="table-wrap">
+    <table id="data" class="display" style="width:100%">
+      <thead>
+        <tr>
+<th>Sample (depth [m])</th><th>Primary (P) / Secondary (S)</th><th>Characteristics</th>        </tr>
+      </thead>
+      <tbody>
+        <tr>
+<td>1 (27.75)</td><td>P</td><td>clearly embedded, rather angular, varying grain size</td>        </tr>
+        <tr>
+<td>2 (27.85)</td><td>P</td><td>clearly embedded, rather angular, with varying grain size</td>        </tr>
+        <tr>
+<td>3 (49.00)</td><td>P</td><td>clearly embedded, rather angular, with varying grain size</td>        </tr>
+        <tr>
+<td>4 (50.20)</td><td>P</td><td>clearly embedded, angular, varying grain size</td>        </tr>
+        <tr>
+<td>5 (54.10)</td><td>P</td><td>embedded, angular, with varying grain size</td>        </tr>
+        <tr>
+<td>6 (58.38)</td><td>P</td><td>embedded, rather angular, with varying grain size</td>        </tr>
+        <tr>
+<td>7 (59.34)</td><td>P</td><td>clearly embedded, angular, varying grain size</td>        </tr>
+        <tr>
+<td>8 (60.30)</td><td>P</td><td>embedded, blocks, angular, varying grain size</td>        </tr>
+        <tr>
+<td>9 (61.38)</td><td>S</td><td>smooth transition, slightly angular, varying grain size</td>        </tr>
+        <tr>
+<td>10 (61.75)</td><td>S</td><td>smooth transition, slightly angular, varying grain size</td>        </tr>
+        <tr>
+<td>11 (62.00)</td><td>S</td><td>smooth transition, slightly rounded, varying grain size</td>        </tr>
+        <tr>
+<td>12 (64.70)</td><td>P</td><td>clearly embedded, angular, varying grain size</td>        </tr>
+        <tr>
+<td>13 (64.92)</td><td>P</td><td>clearly embedded, angular, with varying grain size</td>        </tr>
+        <tr>
+<td>14 (65.97)</td><td>S</td><td>smooth transition, slightly rounded, with varying grain size</td>        </tr>
+        <tr>
+<td>15 (66.80)</td><td>S</td><td>slightly different material, slightly rounded, with varying grain size</td>        </tr>
+        <tr>
+<td>16 (67.05)</td><td>P</td><td>embedded, angular, with varying grain size</td>        </tr>
+        <tr>
+<td>17 (67.58)</td><td>S</td><td>slightly different material, slightly angular, with varying grain size</td>        </tr>
+        <tr>
+<td>18 (69.38)</td><td>S</td><td>smooth transition, rounded, with varying grain size</td>        </tr>
+        <tr>
+<td>19 (69.56)</td><td>S</td><td>smooth transition, rounded, with varying grain size</td>        </tr>
+        <tr>
+<td>20 (70.00)</td><td>S</td><td>smooth transition, slightly rounded, varying grain size</td>        </tr>
+        <tr>
+<td>21 (70.07)</td><td>S</td><td>slightly different material, slightly rounded, varying grain size</td>        </tr>
+        <tr>
+<td>22 (74.70)</td><td>S</td><td>smooth transition, slightly rounded, varying grain size</td>        </tr>
+        <tr>
+<td>23 (75.30)</td><td>S</td><td>smooth transition, slightly rounded, with varying grain size</td>        </tr>
+        <tr>
+<td>24 (81.82)</td><td>S</td><td>large blocks, rounded (!), same grain size</td>        </tr>
+        <tr>
+<td>25 (WDT, 86.78)</td><td>P</td><td>soft, large blocks (!), rather angular, same grain size</td>        </tr>
+        <tr>
+<td>26 (12.70)</td><td>P</td><td>other material, angular, sharp (!), same grain size</td>        </tr>
+        <tr>
+<td>27 (JWT, 12.95)</td><td>P</td><td>other material, angular, sharp, same grain size</td>        </tr>
+        <tr>
+<td>28 (14.82)</td><td>P</td><td>other material, angular, sharp, Leucite, same grain size</td>        </tr>
+        <tr>
+<td>29 (GLT, 20.20)</td><td>P</td><td>other material, angular, Leucite, same grain size</td>        </tr>
+        <tr>
+<td>30 (HBT, 86.43)</td><td>P</td><td>other material, angular, Leucite, same grain size</td>        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer class="page-foot">
+<p>Data creator: Fiona Schenk</p><p>Licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>, Fiona Schenk</p>  </footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+<script>
+$(function () {
+  $('#data').DataTable({
+    pageLength: -1,      // show all rows by default
+    lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, 'All']],
+    order: [],            // keep the original row order until the user sorts
+    autoWidth: false,     // let CSS/table layout size columns (headers may wrap)
+    language: {
+      search: 'Filter:',
+      lengthMenu: 'Show _MENU_ rows',
+      info: 'Showing _START_ to _END_ of _TOTAL_ rows',
+      infoFiltered: '(filtered from _MAX_ rows)',
+      infoEmpty: 'No rows',
+      zeroRecords: 'No matching rows found'
+    }
+  });
+});
+</script>
+</body>
+</html>

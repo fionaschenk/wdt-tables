@@ -1,0 +1,11 @@
+repo:
+  name: wd1-supplementary-tables
+  title: "WD1 supplementary tables"
+  summary: >-
+    The eighteen supplementary data tables of drill core **WD1** (Walsdorfer maar, West Eifel Volcanic Field), published as an interactive site on GitHub Pages.
+  category: table
+  status: complete
+  entry_point: py/main.py
+  landing_page: "https://github.com/fionaschenk/wdt-tables"
+
+outputs: []

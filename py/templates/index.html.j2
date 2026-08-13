@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site_title }}</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <header class="page-head">
+    <h1>{{ site_title }}</h1>
+    {% if intro %}<p class="intro">{{ intro }}</p>{% endif %}
+    {% if nav_links %}
+    <nav class="site-nav">
+      {% for link in nav_links %}
+      <a href="{{ link.href }}"{% if link.download %} download{% endif %}>{{ link.label }}</a>
+      {% endfor %}
+    </nav>
+    {% endif %}
+  </header>
+
+  <ul class="table-index">
+    {% for e in entries %}
+    <li>
+      <a class="table-link" href="{{ e.href }}">{{ e.label }}</a>
+      <span class="dims">{{ e.n_rows }} rows &times; {{ e.n_cols }} columns</span>
+      <span class="dl">
+        <a href="downloads/{{ e.stem }}.csv" download>CSV</a>
+        <a href="downloads/{{ e.stem }}.json" download>JSON</a>
+        {% if e.has_ttl %}<a href="downloads/{{ e.stem }}.ttl" download>Turtle</a>{% endif %}
+      </span>
+      {% if e.caption %}<p class="caption">{{ e.caption }}</p>{% endif %}
+      {% if e.data_creator or e.license_short_html %}
+      <p class="meta">{% if e.data_creator %}{{ e.data_creator }}{% endif %}{% if e.data_creator and e.license_short_html %} &middot; {% endif %}{% if e.license_short_html %}{{ e.license_short_html }}{% endif %}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+</body>
+</html>

@@ -1,0 +1,98 @@
+[
+  {
+    "Sample": "1",
+    "depth [m]": "23.00–23.10",
+    "Material & Time Scale": "Silt–Clay, MIS 6b",
+    "MAF (°C) (1)": "7.93",
+    "MAF (°C) (2)": "9.91",
+    "MAF (°C) (3)": "10.56"
+  },
+  {
+    "Sample": "2",
+    "depth [m]": "29.50–29.60",
+    "Material & Time Scale": "Silt–Clay, MIS 6c",
+    "MAF (°C) (1)": "9.62",
+    "MAF (°C) (2)": "9.36",
+    "MAF (°C) (3)": "10.35"
+  },
+  {
+    "Sample": "3",
+    "depth [m]": "34.30–34.40",
+    "Material & Time Scale": "Silt–Clay, MIS 6c",
+    "MAF (°C) (1)": "8.36",
+    "MAF (°C) (2)": "9.22",
+    "MAF (°C) (3)": "10.34"
+  },
+  {
+    "Sample": "4",
+    "depth [m]": "44.10–44.20",
+    "Material & Time Scale": "Silt–Clay, MIS 6d",
+    "MAF (°C) (1)": "7.02",
+    "MAF (°C) (2)": "7.58",
+    "MAF (°C) (3)": "9.55"
+  },
+  {
+    "Sample": "5",
+    "depth [m]": "56.30–56.40",
+    "Material & Time Scale": "Gyttja, MIS 6e",
+    "MAF (°C) (1)": "6.74",
+    "MAF (°C) (2)": "5.62",
+    "MAF (°C) (3)": "8.49"
+  },
+  {
+    "Sample": "6",
+    "depth [m]": "65.30–65.40",
+    "Material & Time Scale": "Gyttja, MIS 7a",
+    "MAF (°C) (1)": "7.30",
+    "MAF (°C) (2)": "7.04",
+    "MAF (°C) (3)": "9.11"
+  },
+  {
+    "Sample": "7",
+    "depth [m]": "68.50–68.60",
+    "Material & Time Scale": "Gyttja, MIS 7a",
+    "MAF (°C) (1)": "11.64",
+    "MAF (°C) (2)": "12.41",
+    "MAF (°C) (3)": "11.91"
+  },
+  {
+    "Sample": "8",
+    "depth [m]": "71.20–71.30",
+    "Material & Time Scale": "Sapropel, MIS 7a",
+    "MAF (°C) (1)": "11.33",
+    "MAF (°C) (2)": "12.09",
+    "MAF (°C) (3)": "11.78"
+  },
+  {
+    "Sample": "9",
+    "depth [m]": "75.50–75.60",
+    "Material & Time Scale": "Sapropel, MIS 7a",
+    "MAF (°C) (1)": "7.93",
+    "MAF (°C) (2)": "8.78",
+    "MAF (°C) (3)": "10.05"
+  },
+  {
+    "Sample": "10",
+    "depth [m]": "81.50–81.60",
+    "Material & Time Scale": "Sapropel, MIS 7c",
+    "MAF (°C) (1)": "7.98",
+    "MAF (°C) (2)": "7.18",
+    "MAF (°C) (3)": "9.27"
+  },
+  {
+    "Sample": "11",
+    "depth [m]": "83.20–83.30",
+    "Material & Time Scale": "Sapropel, MIS 7c",
+    "MAF (°C) (1)": "7.79",
+    "MAF (°C) (2)": "7.49",
+    "MAF (°C) (3)": "9.82"
+  },
+  {
+    "Sample": "12",
+    "depth [m]": "84.50–84.60",
+    "Material & Time Scale": "Sapropel, MIS 7c",
+    "MAF (°C) (1)": "8.76",
+    "MAF (°C) (2)": "8.33",
+    "MAF (°C) (3)": "9.83"
+  }
+]

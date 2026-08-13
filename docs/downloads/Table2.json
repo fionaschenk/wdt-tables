@@ -1,0 +1,28 @@
+[
+  {
+    "type": "WD1",
+    "reddish Sandstone": "4",
+    "greyish Sandstone": "24",
+    "Quartz": "18",
+    "Amphibole": "1",
+    "Pyroxene": "28",
+    "Scoria": "5",
+    "Pumice": "2",
+    "Sanidine": "15",
+    "Leucite": "0",
+    "Mica": "3"
+  },
+  {
+    "type": "Tuffwall",
+    "reddish Sandstone": "6",
+    "greyish Sandstone": "26",
+    "Quartz": "10",
+    "Amphibole": "2",
+    "Pyroxene": "32",
+    "Scoria": "6",
+    "Pumice": "1",
+    "Sanidine": "14",
+    "Leucite": "0",
+    "Mica": "3"
+  }
+]

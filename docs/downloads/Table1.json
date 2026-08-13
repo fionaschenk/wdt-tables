@@ -1,0 +1,446 @@
+[
+  {
+    "depth [m]": "0.00–0.16",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "0.16–0.76",
+    "Characteristics": "brown, remains of plants"
+  },
+  {
+    "depth [m]": "0.76–1.00",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "1.00–1.12",
+    "Characteristics": "brown, remains of plants"
+  },
+  {
+    "depth [m]": "1.12–1.74",
+    "Characteristics": "brown and light greyish, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "1.74–3.72",
+    "Characteristics": "brown, angular rubble"
+  },
+  {
+    "depth [m]": "3.72–4.85",
+    "Characteristics": "brown, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "4.85–6.00",
+    "Characteristics": "green and brown, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "6.00–6.28",
+    "Characteristics": "brown, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "6.28–6.43",
+    "Characteristics": "brown, rounded rubble"
+  },
+  {
+    "depth [m]": "6.43–6.77",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "6.77–8.05",
+    "Characteristics": "green and brown–greyish, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "8.05–8.58",
+    "Characteristics": "whitish silt–clay–lamination"
+  },
+  {
+    "depth [m]": "8.58–9.45",
+    "Characteristics": "yellowish silt–clay–lamination, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "9.45–9.71",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "9.71–11.00",
+    "Characteristics": "yellow silt–clay–lamination"
+  },
+  {
+    "depth [m]": "11.00–11.18",
+    "Characteristics": "dark brown and greyish, rounded rubble"
+  },
+  {
+    "depth [m]": "11.18–12.00",
+    "Characteristics": "tephra"
+  },
+  {
+    "depth [m]": "12.00–12.08",
+    "Characteristics": "brown"
+  },
+  {
+    "depth [m]": "12.08–12.72",
+    "Characteristics": "tephra"
+  },
+  {
+    "depth [m]": "12.72–12.75",
+    "Characteristics": "brown"
+  },
+  {
+    "depth [m]": "12.75–12.95",
+    "Characteristics": "tephra (JWT)"
+  },
+  {
+    "depth [m]": "12.95–14.00",
+    "Characteristics": "yellow and brown, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "14.00–14.75",
+    "Characteristics": "yellow and brown gyttja"
+  },
+  {
+    "depth [m]": "14.75–14.82",
+    "Characteristics": "tephra"
+  },
+  {
+    "depth [m]": "14.82–15.60",
+    "Characteristics": "green and brown gyttja, white spots"
+  },
+  {
+    "depth [m]": "15.60–17.88",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "17.88–18.04",
+    "Characteristics": "white and reddish"
+  },
+  {
+    "depth [m]": "18.04–19.50",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "19.50–20.00",
+    "Characteristics": "greyish silt–clay–lamination"
+  },
+  {
+    "depth [m]": "20.00–20.20",
+    "Characteristics": "tephra (GLT)"
+  },
+  {
+    "depth [m]": "20.20–22.50",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "22.50–22.55",
+    "Characteristics": "reddish rounded rubble"
+  },
+  {
+    "depth [m]": "22.55–23.50",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "23.50–23.55",
+    "Characteristics": "dark greyish rounded rubble"
+  },
+  {
+    "depth [m]": "23.55–26.70",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "26.70–26.72",
+    "Characteristics": "dark greyish"
+  },
+  {
+    "depth [m]": "26.72–27.63",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "27.63–27.85",
+    "Characteristics": "dark greyish tephra"
+  },
+  {
+    "depth [m]": "27.85–30.80",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "30.80–43.00",
+    "Characteristics": "reddish and brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "43.00–43.50",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "43.50–44.90",
+    "Characteristics": "reddish and brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "44.90–46.10",
+    "Characteristics": "yellow–brown silt–clay–lamination"
+  },
+  {
+    "depth [m]": "46.10–46.63",
+    "Characteristics": "dark greyish rubble"
+  },
+  {
+    "depth [m]": "46.63–48.00",
+    "Characteristics": "reddish gyttja, partially greyish"
+  },
+  {
+    "depth [m]": "48.00–48.35",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "48.35–48.88",
+    "Characteristics": "reddish gyttja"
+  },
+  {
+    "depth [m]": "48.88–49.00",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "49.00–49.50",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "49.50–50.00",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "50.00–50.15",
+    "Characteristics": "light brown gyttja"
+  },
+  {
+    "depth [m]": "50.15–50.20",
+    "Characteristics": "greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "50.20–51.00",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "51.00–53.20",
+    "Characteristics": "dark brown gyttja"
+  },
+  {
+    "depth [m]": "53.20–53.30",
+    "Characteristics": "brown landslide"
+  },
+  {
+    "depth [m]": "53.30–54.00",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "54.00–54.11",
+    "Characteristics": "tephra (ash)"
+  },
+  {
+    "depth [m]": "54.11–54.78",
+    "Characteristics": "greenish and brown gyttja"
+  },
+  {
+    "depth [m]": "54.78–55.00",
+    "Characteristics": "greenish, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "55.00–55.50",
+    "Characteristics": "reddish, light-brown landslide"
+  },
+  {
+    "depth [m]": "55.50–56.76",
+    "Characteristics": "reddish and brown gyttja"
+  },
+  {
+    "depth [m]": "56.76–57.00",
+    "Characteristics": "greenish and brown gyttja, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "57.00–58.24",
+    "Characteristics": "dark brown gyttja, partially reddish"
+  },
+  {
+    "depth [m]": "58.24–58.38",
+    "Characteristics": "dark grey tephra (lapilli)"
+  },
+  {
+    "depth [m]": "58.38–58.50",
+    "Characteristics": "dark brown gyttja"
+  },
+  {
+    "depth [m]": "58.50–59.00",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "59.00–59.34",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "59.34–60.22",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "60.22–60.30",
+    "Characteristics": "tephra (ash)"
+  },
+  {
+    "depth [m]": "60.30–61.17",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "61.17–62.00",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "62.00–63.00",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "63.00–64.50",
+    "Characteristics": "dark brown gyttja, partially more or less coloured"
+  },
+  {
+    "depth [m]": "64.50–64.92",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "64.92–65.25",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "65.25–65.65",
+    "Characteristics": "calcite precipitation"
+  },
+  {
+    "depth [m]": "65.65–65.82",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "65.82–65.97",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "65.97–66.40",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "66.40–66.68",
+    "Characteristics": "reddish and greyish gyttja, matrix–supported rubble"
+  },
+  {
+    "depth [m]": "66.68–67.05",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "67.05–67.38",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "67.38–67.58",
+    "Characteristics": "dark greyish Tephra (lapilli)"
+  },
+  {
+    "depth [m]": "67.58–68.58",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "68.58–68.75",
+    "Characteristics": "calcite precipitation"
+  },
+  {
+    "depth [m]": "68.75–69.00",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "69.00–69.38",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "69.38–69.53",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "69.53–69.56",
+    "Characteristics": "dark greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "69.56–69.85",
+    "Characteristics": "brown gyttja"
+  },
+  {
+    "depth [m]": "69.85–70.07",
+    "Characteristics": "brown and greyish tephra (lapilli)"
+  },
+  {
+    "depth [m]": "70.07–71.03",
+    "Characteristics": "dark greyish sapropel"
+  },
+  {
+    "depth [m]": "71.03–71.10",
+    "Characteristics": "calcite precipitation"
+  },
+  {
+    "depth [m]": "71.10–73.07",
+    "Characteristics": "dark greyish sapropel"
+  },
+  {
+    "depth [m]": "73.07–74.60",
+    "Characteristics": "greyish gyttja"
+  },
+  {
+    "depth [m]": "74.60–75.30",
+    "Characteristics": "tephra (ash)"
+  },
+  {
+    "depth [m]": "75.30–76.00",
+    "Characteristics": "brown and greyish sapropel"
+  },
+  {
+    "depth [m]": "76.00–80.00",
+    "Characteristics": "greyish gyttja"
+  },
+  {
+    "depth [m]": "80.00–81.67",
+    "Characteristics": "greyish sapropel"
+  },
+  {
+    "depth [m]": "81.67–81.82",
+    "Characteristics": "tephra (ash)"
+  },
+  {
+    "depth [m]": "81.82–85.00",
+    "Characteristics": "greyish sapropel"
+  },
+  {
+    "depth [m]": "85.00–85.50",
+    "Characteristics": "brown and greyish gyttja"
+  },
+  {
+    "depth [m]": "85.50–86.00",
+    "Characteristics": "dark greyish sapropel"
+  },
+  {
+    "depth [m]": "86.00–86.13",
+    "Characteristics": "yellow and brown gyttja"
+  },
+  {
+    "depth [m]": "86.13–86.43",
+    "Characteristics": "tephra (HBT)"
+  },
+  {
+    "depth [m]": "86.43–86.50",
+    "Characteristics": "brown and dark greyish sapropel"
+  },
+  {
+    "depth [m]": "86.50–86.60",
+    "Characteristics": "-----"
+  },
+  {
+    "depth [m]": "86.60–86.72",
+    "Characteristics": "brown and dark greyish sapropel"
+  },
+  {
+    "depth [m]": "86.72–86.78",
+    "Characteristics": "tephra (WDT)"
+  },
+  {
+    "depth [m]": "86.78–87.00",
+    "Characteristics": "dark greyish sapropel"
+  }
+]

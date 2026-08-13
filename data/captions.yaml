@@ -1,0 +1,106 @@
+Table1:
+  caption: "Lithology of drill core WD1."
+  title: Table1
+  parsinginfo: "column depth [m] means [begin]–[end]"
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table2:
+  caption: "Average values of tephra samples from drill core WD1 compared to the tuff wall of the Walsdorfer maar."
+  title: Table2
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table3:
+  caption: "Tephra core samples of WD1 in mineralogical components."
+  captiondetail: "(JWT = Jungferweiher Tephra, GLT = Glees Tephra, HBT = Hüttenberg Tephra)"
+  title: Table3
+  parsinginfo: "complete depth [m] means [begin]–[end]"
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table4:
+  caption: "Tephra field samples and their mineralogical components."
+  captiondetail: "The Walsdorfer maar (W) defines the sampling location; in total, the samples (cf. a, b, c) were taken from three different areas (1, 2, 3) of the maar."
+  title: Table4
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table5:
+  caption: "Tephra samples from the Goßberg lava pit (G)."
+  title: Table5
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table6:
+  caption: "Sampling at quarry Mäuseberg at the Rockeskyll volcano (R)."
+  title: Table6
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table7:
+  caption: "Classification of the WD1 tephra samples into primary and secondary tephra."
+  title: Table7
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table8:
+  caption: "EPMA of mineral grains."
+  captiondetail: "The average value is calculated from three individual measurements [wt%]. Samples I–1 to III–30 define light mineral grains, samples IIII–1 to IIIIII–30 represent dark mineral grains and two leucites (IIIIII–L1 and IIIIII–L2). Some parameters yielded a too low detectable value (b.d.l. = below detection limit)."
+  title: Table8
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+  parsinginfo: "comma as decimal point; two positions after decimal point, only 0.00 as 0"
+Table9:
+  caption: "EPMA of four sanidine thin sections from the areas ‘Auf Dickel’ and ‘Am Acker’."
+  captiondetail: "The average values ​​shown each include ten measured values ​​[wt%]. Some parameters yielded a too low detectable value (b.d.l. = below detection limit)."
+  title: Table9
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+Table10:
+  caption: "LA–ICP–MS of mineral grains in rare earth elements (REE)."
+  captiondetail: "The average value is derived from two to three measurement points [ppm] from two mineral grains of the sample."
+  title: Table10
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+  chem_columns: [1]
+Table11:
+  caption: "LA–ICP–MS of sanidine thin section 2 ‘Auf Dickel’ in rare earth elements (REE)."
+  captiondetail: "The stated average values ​​[ppm] comprise 70 measurements along the longitudinal axis and 30 measurements across to the longitudinal axis."
+  title: Table11
+  license: "CC BY 4.0, Fiona Schenk"
+  data-creator: Fiona Schenk
+  chem_columns: [1]
+Table12:
+  caption: "Comparison of brGDGT in drill core WD1."
+  captiondetail: "The calculation was carried out according to (1) Raberg et al. (2021), (2) Martínez–Sosa et al. (2021), and (3) Bauersachs et al. (2024)."
+  title: Table12
+  license: "CC BY 4.0, Fiona Schenk, Dr. Paul Zander, Prof. Dr. Thorsten Bauersachs"
+  data-creator: Fiona Schenk (1), Dr. Paul Zander (2), Prof. Dr. Thorsten Bauersachs (3)
+Table13:
+  caption: "BrGDGT-based temperature indices in drill core WD1."
+  captiondetail: "IR6Me = isomerisation ratio of the 6-methyl brGDGTs; MAAT = mean annual air temperature [°C]; MAF = mean temperature of the months above freezing [°C]. Determined according to Bauersachs et al. (2024)."
+  title: Table13
+  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs"
+  data-creator: Prof. Dr. Thorsten Bauersachs
+Table14:
+  caption: "BrGDGT algorithm in drill core WD1. "
+  captiondetail: "The determination was carried out according to Martínez–Sosa et al. (2023)."
+  title: Table14
+  license: "CC BY 4.0, Dr. Paul Zander"
+  data-creator: Dr. Paul Zander
+Table15:
+  caption: "Selected samples from the WD1 core for the analysis of macerals."
+  title: Table15
+  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Prof. Dr. Thorsten Bauersachs, Fiona Schenk
+Table16:
+  caption: "Classification of the macerals into the three main groups."
+  captiondetail: "The count was carried out both by number [#] of macerals and by relative proportion [%] in the sample."
+  title: Table16
+  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Prof. Dr. Thorsten Bauersachs
+Table17:
+  caption: "Reflectance measurement of gyttja and sapropel samples from the WD1 core."
+  title: Table17
+  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Prof. Dr. Thorsten Bauersachs
+Table18:
+  caption: "Bulk-geochemical data of WD1 samples."
+  captiondetail: "In sample 6, not all parameters yielded a measurable value (n.d. = not detectable)"
+  title: Table18
+  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Prof. Dr. Thorsten Bauersachs

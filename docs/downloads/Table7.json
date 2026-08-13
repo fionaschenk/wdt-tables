@@ -1,0 +1,152 @@
+[
+  {
+    "Sample (depth [m])": "1 (27.75)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, rather angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "2 (27.85)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, rather angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "3 (49.00)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, rather angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "4 (50.20)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "5 (54.10)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "embedded, angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "6 (58.38)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "embedded, rather angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "7 (59.34)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "8 (60.30)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "embedded, blocks, angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "9 (61.38)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "10 (61.75)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "11 (62.00)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly rounded, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "12 (64.70)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, angular, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "13 (64.92)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "clearly embedded, angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "14 (65.97)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly rounded, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "15 (66.80)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "slightly different material, slightly rounded, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "16 (67.05)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "embedded, angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "17 (67.58)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "slightly different material, slightly angular, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "18 (69.38)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, rounded, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "19 (69.56)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, rounded, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "20 (70.00)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly rounded, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "21 (70.07)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "slightly different material, slightly rounded, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "22 (74.70)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly rounded, varying grain size"
+  },
+  {
+    "Sample (depth [m])": "23 (75.30)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "smooth transition, slightly rounded, with varying grain size"
+  },
+  {
+    "Sample (depth [m])": "24 (81.82)",
+    "Primary (P) / Secondary (S)": "S",
+    "Characteristics": "large blocks, rounded (!), same grain size"
+  },
+  {
+    "Sample (depth [m])": "25 (WDT, 86.78)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "soft, large blocks (!), rather angular, same grain size"
+  },
+  {
+    "Sample (depth [m])": "26 (12.70)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "other material, angular, sharp (!), same grain size"
+  },
+  {
+    "Sample (depth [m])": "27 (JWT, 12.95)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "other material, angular, sharp, same grain size"
+  },
+  {
+    "Sample (depth [m])": "28 (14.82)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "other material, angular, sharp, Leucite, same grain size"
+  },
+  {
+    "Sample (depth [m])": "29 (GLT, 20.20)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "other material, angular, Leucite, same grain size"
+  },
+  {
+    "Sample (depth [m])": "30 (HBT, 86.43)",
+    "Primary (P) / Secondary (S)": "P",
+    "Characteristics": "other material, angular, Leucite, same grain size"
+  }
+]

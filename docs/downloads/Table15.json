@@ -1,0 +1,80 @@
+[
+  {
+    "Sample": "1",
+    "depth [m]": "6.48–6.53",
+    "Time Scale": "MIS 6a",
+    "Organic Sediment": "Gyttja; solid material from core"
+  },
+  {
+    "Sample": "2",
+    "depth [m]": "14.42–14.47",
+    "Time Scale": "MIS 6a",
+    "Organic Sediment": "Gyttja; material in liquid"
+  },
+  {
+    "Sample": "3",
+    "depth [m]": "15.35–15.40",
+    "Time Scale": "MIS 6a",
+    "Organic Sediment": "Gyttja; solid material from core"
+  },
+  {
+    "Sample": "4",
+    "depth [m]": "47.75–47.80",
+    "Time Scale": "MIS 6e",
+    "Organic Sediment": "Gyttja; solid material from core"
+  },
+  {
+    "Sample": "5",
+    "depth [m]": "51.48–51.53",
+    "Time Scale": "MIS 6e",
+    "Organic Sediment": "Gyttja; material in liquid"
+  },
+  {
+    "Sample": "6",
+    "depth [m]": "65.48–65.63",
+    "Time Scale": "MIS 7a",
+    "Organic Sediment": "Gyttja; material in liquid"
+  },
+  {
+    "Sample": "7",
+    "depth [m]": "71.05–71.10",
+    "Time Scale": "MIS 7a",
+    "Organic Sediment": "Sapropel; solid material from core"
+  },
+  {
+    "Sample": "8",
+    "depth [m]": "72.30–72.35",
+    "Time Scale": "MIS 7a",
+    "Organic Sediment": "Sapropel; material in liquid"
+  },
+  {
+    "Sample": "9",
+    "depth [m]": "77.75–77.80",
+    "Time Scale": "MIS 7b",
+    "Organic Sediment": "Gyttja; material in liquid"
+  },
+  {
+    "Sample": "10",
+    "depth [m]": "80.17–80.22",
+    "Time Scale": "MIS 7c",
+    "Organic Sediment": "Sapropel; solid material from core"
+  },
+  {
+    "Sample": "11",
+    "depth [m]": "82.77–82.82",
+    "Time Scale": "MIS 7c",
+    "Organic Sediment": "Sapropel; solid material from core"
+  },
+  {
+    "Sample": "12",
+    "depth [m]": "84.47–84.52",
+    "Time Scale": "MIS 7c",
+    "Organic Sediment": "Sapropel; solid material from core"
+  },
+  {
+    "Sample": "13",
+    "depth [m]": "86.80–86.85",
+    "Time Scale": "MIS 7c",
+    "Organic Sediment": "Sapropel; material in liquid"
+  }
+]

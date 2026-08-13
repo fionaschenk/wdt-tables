@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ label }}</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/{{ datatables_version }}/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <nav class="crumb"><a href="index.html">&larr; Index of tables</a></nav>
+
+  <header class="page-head">
+    <h1>{{ label }}</h1>
+    {% if caption %}<p class="caption">{{ caption }}</p>{% endif %}
+    {% if captiondetail %}<p class="caption-detail">{{ captiondetail }}</p>{% endif %}
+  </header>
+
+  <div class="downloads">
+    <span class="dl-label">Download:</span>
+    <a class="dl-btn" href="downloads/{{ stem }}.csv" download>CSV</a>
+    <a class="dl-btn" href="downloads/{{ stem }}.json" download>JSON</a>
+    {% if has_ttl %}<a class="dl-btn" href="downloads/{{ stem }}.ttl" download>Turtle</a>{% endif %}
+  </div>
+
+  <div class="table-wrap">
+    <table id="data" class="display" style="width:100%">
+      <thead>
+        <tr>
+          {% for col in header %}<th>{{ col }}</th>{% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in rows %}
+        <tr>
+          {% for cell in row %}<td>{{ cell }}</td>{% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <footer class="page-foot">
+    {% if data_creator %}<p>Data creator: {{ data_creator }}</p>{% endif %}
+    {% if license_html %}<p>Licence: {{ license_html }}</p>{% endif %}
+  </footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-{{ jquery_version }}.min.js"></script>
+<script src="https://cdn.datatables.net/{{ datatables_version }}/js/dataTables.min.js"></script>
+<script>
+$(function () {
+  $('#data').DataTable({
+    pageLength: -1,      // show all rows by default
+    lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, 'All']],
+    order: [],            // keep the original row order until the user sorts
+    autoWidth: false,     // let CSS/table layout size columns (headers may wrap)
+    language: {
+      search: 'Filter:',
+      lengthMenu: 'Show _MENU_ rows',
+      info: 'Showing _START_ to _END_ of _TOTAL_ rows',
+      infoFiltered: '(filtered from _MAX_ rows)',
+      infoEmpty: 'No rows',
+      zeroRecords: 'No matching rows found'
+    }
+  });
+});
+</script>
+</body>
+</html>

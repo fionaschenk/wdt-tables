@@ -1,0 +1,54 @@
+[
+  {
+    "sample": "R1",
+    "reddish Sandstone": "6",
+    "greyish Sandstone": "8",
+    "Quartz": "7",
+    "Amphibole": "8",
+    "Pyroxene": "9",
+    "Scoria": "39",
+    "Pumice": "5",
+    "Sanidine": "15",
+    "Leucite": "0",
+    "Mica": "3"
+  },
+  {
+    "sample": "R2",
+    "reddish Sandstone": "11",
+    "greyish Sandstone": "8",
+    "Quartz": "5",
+    "Amphibole": "5",
+    "Pyroxene": "15",
+    "Scoria": "40",
+    "Pumice": "3",
+    "Sanidine": "13",
+    "Leucite": "0",
+    "Mica": "0"
+  },
+  {
+    "sample": "R3",
+    "reddish Sandstone": "6",
+    "greyish Sandstone": "5",
+    "Quartz": "4",
+    "Amphibole": "5",
+    "Pyroxene": "17",
+    "Scoria": "44",
+    "Pumice": "6",
+    "Sanidine": "11",
+    "Leucite": "0",
+    "Mica": "2"
+  },
+  {
+    "sample": "R4",
+    "reddish Sandstone": "4",
+    "greyish Sandstone": "16",
+    "Quartz": "7",
+    "Amphibole": "4",
+    "Pyroxene": "21",
+    "Scoria": "25",
+    "Pumice": "3",
+    "Sanidine": "18",
+    "Leucite": "0",
+    "Mica": "2"
+  }
+]

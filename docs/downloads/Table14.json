@@ -1,0 +1,110 @@
+[
+  {
+    "Sample": "1",
+    "depth [m]": "23.00–23.10",
+    "Lake - Type": "0.824",
+    "Marine - Type": "0.065",
+    "Peat - Type": "0.057",
+    "Soil - Type": "0.054",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "2",
+    "depth [m]": "29.50–29.60",
+    "Lake - Type": "0.856",
+    "Marine - Type": "0.048",
+    "Peat - Type": "0.061",
+    "Soil - Type": "0.035",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "3",
+    "depth [m]": "34.30–34.40",
+    "Lake - Type": "0.838",
+    "Marine - Type": "0.086",
+    "Peat - Type": "0.039",
+    "Soil - Type": "0.036",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "4",
+    "depth [m]": "44.10–44.20",
+    "Lake - Type": "0.883",
+    "Marine - Type": "0.052",
+    "Peat - Type": "0.034",
+    "Soil - Type": "0.031",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "5",
+    "depth [m]": "56.30–56.40",
+    "Lake - Type": "0.856",
+    "Marine - Type": "0.083",
+    "Peat - Type": "0.032",
+    "Soil - Type": "0.029",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "6",
+    "depth [m]": "65.30–65.40",
+    "Lake - Type": "0.856",
+    "Marine - Type": "0.083",
+    "Peat - Type": "0.024",
+    "Soil - Type": "0.037",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "7",
+    "depth [m]": "68.50–68.60",
+    "Lake - Type": "0.867",
+    "Marine - Type": "0.040",
+    "Peat - Type": "0.061",
+    "Soil - Type": "0.033",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "8",
+    "depth [m]": "71.20–71.30",
+    "Lake - Type": "0.884",
+    "Marine - Type": "0.035",
+    "Peat - Type": "0.055",
+    "Soil - Type": "0.026",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "9",
+    "depth [m]": "75.50–75.60",
+    "Lake - Type": "0.912",
+    "Marine - Type": "0.029",
+    "Peat - Type": "0.028",
+    "Soil - Type": "0.031",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "10",
+    "depth [m]": "81.50–81.60",
+    "Lake - Type": "0.897",
+    "Marine - Type": "0.044",
+    "Peat - Type": "0.035",
+    "Soil - Type": "0.024",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "11",
+    "depth [m]": "83.20–83.30",
+    "Lake - Type": "0.901",
+    "Marine - Type": "0.040",
+    "Peat - Type": "0.040",
+    "Soil - Type": "0.019",
+    "Result": "Lake–type"
+  },
+  {
+    "Sample": "12",
+    "depth [m]": "84.50–84.60",
+    "Lake - Type": "0.922",
+    "Marine - Type": "0.022",
+    "Peat - Type": "0.038",
+    "Soil - Type": "0.018",
+    "Result": "Lake–type"
+  }
+]
