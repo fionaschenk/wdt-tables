@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Table 14</title>
+<link rel="stylesheet" href="https://cdn.datatables.net/2.1.8/css/dataTables.dataTables.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <nav class="crumb"><a href="index.html">&larr; Index of tables</a></nav>
+
+  <header class="page-head">
+    <h1>Table 14</h1>
+<p class="caption">BrGDGT algorithm in drill core WD1. </p><p class="caption-detail">The determination was carried out according to Martínez–Sosa et al. (2023).</p>  </header>
+
+  <div class="downloads">
+    <span class="dl-label">Download:</span>
+    <a class="dl-btn" href="downloads/Table14.csv" download>CSV</a>
+    <a class="dl-btn" href="downloads/Table14.json" download>JSON</a>
+  </div>
+
+  <div class="table-wrap">
+    <table id="data" class="display" style="width:100%">
+      <thead>
+        <tr>
+<th>Sample</th><th>depth [m]</th><th>Lake - Type</th><th>Marine - Type</th><th>Peat - Type</th><th>Soil - Type</th><th>Result</th>        </tr>
+      </thead>
+      <tbody>
+        <tr>
+<td>1</td><td>23.00–23.10</td><td>0.824</td><td>0.065</td><td>0.057</td><td>0.054</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>2</td><td>29.50–29.60</td><td>0.856</td><td>0.048</td><td>0.061</td><td>0.035</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>3</td><td>34.30–34.40</td><td>0.838</td><td>0.086</td><td>0.039</td><td>0.036</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>4</td><td>44.10–44.20</td><td>0.883</td><td>0.052</td><td>0.034</td><td>0.031</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>5</td><td>56.30–56.40</td><td>0.856</td><td>0.083</td><td>0.032</td><td>0.029</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>6</td><td>65.30–65.40</td><td>0.856</td><td>0.083</td><td>0.024</td><td>0.037</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>7</td><td>68.50–68.60</td><td>0.867</td><td>0.040</td><td>0.061</td><td>0.033</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>8</td><td>71.20–71.30</td><td>0.884</td><td>0.035</td><td>0.055</td><td>0.026</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>9</td><td>75.50–75.60</td><td>0.912</td><td>0.029</td><td>0.028</td><td>0.031</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>10</td><td>81.50–81.60</td><td>0.897</td><td>0.044</td><td>0.035</td><td>0.024</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>11</td><td>83.20–83.30</td><td>0.901</td><td>0.040</td><td>0.040</td><td>0.019</td><td>Lake–type</td>        </tr>
+        <tr>
+<td>12</td><td>84.50–84.60</td><td>0.922</td><td>0.022</td><td>0.038</td><td>0.018</td><td>Lake–type</td>        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer class="page-foot">
+<p>Data creator: Paul Zander</p><p>Licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>, Paul Zander</p>  </footer>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+<script>
+$(function () {
+  $('#data').DataTable({
+    pageLength: -1,      // show all rows by default
+    lengthMenu: [[10, 25, 50, 100, -1], [10, 25, 50, 100, 'All']],
+    order: [],            // keep the original row order until the user sorts
+    autoWidth: false,     // let CSS/table layout size columns (headers may wrap)
+    language: {
+      search: 'Filter:',
+      lengthMenu: 'Show _MENU_ rows',
+      info: 'Showing _START_ to _END_ of _TOTAL_ rows',
+      infoFiltered: '(filtered from _MAX_ rows)',
+      infoEmpty: 'No rows',
+      zeroRecords: 'No matching rows found'
+    }
+  });
+});
+</script>
+</body>
+</html>
