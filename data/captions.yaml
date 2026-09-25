@@ -68,39 +68,39 @@ Table12:
   caption: "Comparison of brGDGT in drill core WD1."
   captiondetail: "The calculation was carried out according to (1) Raberg et al. (2021), (2) Martínez–Sosa et al. (2021), and (3) Bauersachs et al. (2024)."
   title: Table12
-  license: "CC BY 4.0, Fiona Schenk, Dr. Paul Zander, Prof. Dr. Thorsten Bauersachs"
-  data-creator: Fiona Schenk (1), Dr. Paul Zander (2), Prof. Dr. Thorsten Bauersachs (3)
+  license: "CC BY 4.0, Fiona Schenk, Paul Zander, Thorsten Bauersachs"
+  data-creator: Fiona Schenk (1), Paul Zander (2), Thorsten Bauersachs (3)
 Table13:
   caption: "BrGDGT-based temperature indices in drill core WD1."
   captiondetail: "IR6Me = isomerisation ratio of the 6-methyl brGDGTs; MAAT = mean annual air temperature [°C]; MAF = mean temperature of the months above freezing [°C]. Determined according to Bauersachs et al. (2024)."
   title: Table13
-  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs"
-  data-creator: Prof. Dr. Thorsten Bauersachs
+  license: "CC BY 4.0, Thorsten Bauersachs"
+  data-creator: Thorsten Bauersachs
 Table14:
   caption: "BrGDGT algorithm in drill core WD1. "
   captiondetail: "The determination was carried out according to Martínez–Sosa et al. (2023)."
   title: Table14
-  license: "CC BY 4.0, Dr. Paul Zander"
-  data-creator: Dr. Paul Zander
+  license: "CC BY 4.0, Paul Zander"
+  data-creator: Paul Zander
 Table15:
   caption: "Selected samples from the WD1 core for the analysis of macerals."
   title: Table15
-  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
-  data-creator: Prof. Dr. Thorsten Bauersachs, Fiona Schenk
+  license: "CC BY 4.0, Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Thorsten Bauersachs, Fiona Schenk
 Table16:
   caption: "Classification of the macerals into the three main groups."
   captiondetail: "The count was carried out both by number [#] of macerals and by relative proportion [%] in the sample."
   title: Table16
-  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
-  data-creator: Prof. Dr. Thorsten Bauersachs
+  license: "CC BY 4.0, Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Thorsten Bauersachs
 Table17:
   caption: "Reflectance measurement of gyttja and sapropel samples from the WD1 core."
   title: Table17
-  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
-  data-creator: Prof. Dr. Thorsten Bauersachs
+  license: "CC BY 4.0, Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Thorsten Bauersachs
 Table18:
   caption: "Bulk-geochemical data of WD1 samples."
   captiondetail: "In sample 6, not all parameters yielded a measurable value (n.d. = not detectable)"
   title: Table18
-  license: "CC BY 4.0, Prof. Dr. Thorsten Bauersachs, Fiona Schenk"
-  data-creator: Prof. Dr. Thorsten Bauersachs
+  license: "CC BY 4.0, Thorsten Bauersachs, Fiona Schenk"
+  data-creator: Thorsten Bauersachs
