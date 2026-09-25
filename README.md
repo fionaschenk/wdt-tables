@@ -1,6 +1,6 @@
 # WD1 supplementary tables
 
-The eighteen supplementary data tables of drill core **WD1** (Walsdorfer maar, West Eifel Volcanic Field), published as an interactive site on GitHub Pages.
+The 18 supplementary data tables of drill core **WD1** (Walsdorfer maar, West Eifel Volcanic Field), published as an interactive site on GitHub Pages.
 
 **Browse the tables:** http://fionaschenk.github.io/wdt-tables/
 
